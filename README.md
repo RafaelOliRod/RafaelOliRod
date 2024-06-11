@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou Rafael Rodrigues 👋
 
-<!--
-**RafaelOliRod/RafaelOliRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 🔭 Atualmente estou trabalhando em projetos de ciência de dados.
+- 🌱 Estou aprendendo [tecnologias/linguagens que está aprendendo].
+- 👯 Estou procurando colaborar em [tipos de projetos que você gostaria de colaborar].
+- 📫 Você pode me encontrar em [seus contatos ou redes sociais].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+## Projetos Destacados
+- [Projeto 1](link_para_o_projeto): Descrição breve do projeto.
+- [Projeto 2](link_para_o_projeto): Descrição breve do projeto.
+
+## Contato
+- [Seu Email](mailto:seuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
