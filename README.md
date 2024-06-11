@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here is some information about me:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ## Featured Projects
-- [ML---Churn-Beta-Bank](https://github.com/ML---Churn-Beta-Bank): This repository contains a detailed study on churn detection (customer attrition) using banking data.
+- [ML---Churn-Beta-Bank](https://github.com/RafaelOliRod/ML---Churn-Beta-Bank): This repository contains a detailed study on churn detection (customer attrition) using banking data.
 - [ Web-Scraping-5-andar](https://github.com/RafaelOliRod/Web-Scraping-5-andar): A web scraping script to collect data from a famous Brazilian website for buying and renting properties.
 - [ML---IA---Plan-Recommendation](https://github.com/RafaelOliRod/ML---IA---Plan-Recommendation): Development of an advanced recommendation system for Megaline, a leading telecommunications company.
 
