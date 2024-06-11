@@ -18,6 +18,8 @@ Welcome to my GitHub profile! Here is some information about me:
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+ angular aws azure backbonejs bootstrap csharp css3 cypress django docker figma git grafana graphql html5 jasmine java javascript jenkins jest kafka kibana kubernetes linux mocha mongodb mysql nodejs oracle postgresql postman puppeteer python react redis selenium spring vuejs 
+
 ## Featured Projects
 - [ML---Churn-Beta-Bank](https://github.com/RafaelOliRod/ML---Churn-Beta-Bank): This repository contains a detailed study on churn detection (customer attrition) using banking data.
 - [ Web-Scraping-5-andar](https://github.com/RafaelOliRod/Web-Scraping-5-andar): A web scraping script to collect data from a famous Brazilian website for buying and renting properties.
