@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here is some information about me:
 
 ## Featured Projects
 - [ML---Churn-Beta-Bank](https://github.com/ML---Churn-Beta-Bank): This repository contains a detailed study on churn detection (customer attrition) using banking data.
-- [ Web-Scraping-5-andar](https://github.com/RafaelOliRod/Web-Scraping-5-andar): This project consists of a web scraping script to collect data from a famous Brazilian website for buying and renting properties.
+- [ Web-Scraping-5-andar](https://github.com/RafaelOliRod/Web-Scraping-5-andar): A web scraping script to collect data from a famous Brazilian website for buying and renting properties.
 
 ## Contact
 - [Email](mailto:rafael.or@gmail.com)
