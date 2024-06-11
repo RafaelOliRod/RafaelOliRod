@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here is some information about me:
 
 ## About Me
 - 🔭 I am currently studying electrical engineering and working on projects focused on data science.
-- 🌱 I am learning JavaScript, Python and its libraries, Machine Learning, and SQL.
+- 🌱 I am learning Python and its libraries, Machine Learning, and SQL.
 - 👯 I am looking to collaborate on data and machine learning projects.
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/rafael-rodrigues-379112278/).
 
