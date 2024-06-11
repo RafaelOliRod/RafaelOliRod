@@ -10,11 +10,11 @@ Welcome to my GitHub profile! Here is some information about me:
 
 ## Technologies and Tools
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 - ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 - ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ## Featured Projects
 - [Project 1](https://github.com/username/ML---Churn-Beta-Bank): This repository contains a detailed study on churn detection (customer attrition) using banking data.
