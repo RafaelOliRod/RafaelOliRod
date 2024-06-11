@@ -1,23 +1,25 @@
-# Olá! Eu sou Rafael Rodrigues 👋
+# Hello! I'm Rafael Rodrigues 👋
 
-Bem-vindo ao meu perfil do GitHub! Aqui estão algumas informações sobre mim:
+Welcome to my GitHub profile! Here is some information about me:
 
-## Sobre Mim
-- 🔭 Atualmente estou trabalhando em projetos de ciência de dados.
-- 🌱 Estou aprendendo [tecnologias/linguagens que está aprendendo].
-- 👯 Estou procurando colaborar em [tipos de projetos que você gostaria de colaborar].
-- 📫 Você pode me encontrar em [seus contatos ou redes sociais].
+## About Me
+- 🔭 I am currently studying electrical engineering and working on projects focused on data science.
+- 🌱 I am learning JavaScript, Python and its libraries, Machine Learning, and SQL.
+- 👯 I am looking to collaborate on data and machine learning projects.
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/rafael-rodrigues-379112278/).
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+- ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+- ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikit-learn)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 
-## Projetos Destacados
-- [Projeto 1](link_para_o_projeto): Descrição breve do projeto.
-- [Projeto 2](link_para_o_projeto): Descrição breve do projeto.
+## Featured Projects
+- [Project 1](https://github.com/username/ML---Churn-Beta-Bank): This repository contains a detailed study on churn detection (customer attrition) using banking data.
+- [Project 2](link_to_project): This project consists of a web scraping script to collect data from a famous Brazilian website for buying and renting properties.
 
-## Contato
-- [Seu Email](mailto:seuemail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+## Contact
+- [Email](mailto:rafael.or@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rafael-rodrigues-379112278/)
