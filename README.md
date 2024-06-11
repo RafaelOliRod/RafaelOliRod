@@ -18,8 +18,7 @@ Welcome to my GitHub profile! Here is some information about me:
 - ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
- angular aws azure backbonejs bootstrap csharp css3 cypress django docker figma git grafana graphql html5 jasmine java javascript jenkins jest kafka kibana kubernetes linux mocha mongodb mysql nodejs oracle postgresql postman puppeteer python react redis selenium spring vuejs 
-
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 ## Featured Projects
 - [ML---Churn-Beta-Bank](https://github.com/RafaelOliRod/ML---Churn-Beta-Bank): This repository contains a detailed study on churn detection (customer attrition) using banking data.
 - [ Web-Scraping-5-andar](https://github.com/RafaelOliRod/Web-Scraping-5-andar): A web scraping script to collect data from a famous Brazilian website for buying and renting properties.
